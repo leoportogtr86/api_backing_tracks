@@ -68,5 +68,35 @@
         "link": "https://www.youtube.com/watch?v=0fJ29wqHQyU",
         "embed_src": "https://www.youtube.com/embed/0fJ29wqHQyU"
 
+    },
+
+    {
+        "titulo": "Jazz Blues Backing Track - Medium Swing (C)",
+        "canal": "Quist",
+        "estilo/modo": "blues",
+        "tonalidade": "C",
+        "link": "https://www.youtube.com/watch?v=i4L7FNK0siw",
+        "embed_src": "https://www.youtube.com/embed/i4L7FNK0siw"
+
+    },
+
+    {
+        "titulo": "Super Slow Blues Jam | Sexy Guitar Backing Track (C)",
+        "canal": "Quist",
+        "estilo/modo": "blues",
+        "tonalidade": "C",
+        "link": "https://www.youtube.com/watch?v=pP2q6LPYsXQ",
+        "embed_src": "https://www.youtube.com/embed/pP2q6LPYsXQ"
+
+    },
+
+    {
+        "titulo": "Chicago Style Blues Backing Track (D)",
+        "canal": "Quist",
+        "estilo/modo": "blues",
+        "tonalidade": "D",
+        "link": "https://www.youtube.com/watch?v=w6Zgr83lHcM",
+        "embed_src":"https://www.youtube.com/embed/w6Zgr83lHcM"
+
     }
 ]
