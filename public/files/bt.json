@@ -98,5 +98,55 @@
         "link": "https://www.youtube.com/watch?v=w6Zgr83lHcM",
         "embed_src":"https://www.youtube.com/embed/w6Zgr83lHcM"
 
+    },
+
+    {
+        "titulo": "B.B. King Style Blues Backing Track (D) - Quist",
+        "canal": "Quist",
+        "estilo/modo": "blues",
+        "tonalidade": "D",
+        "link": "https://www.youtube.com/watch?v=ch_vD_090jk",
+        "embed_src":"https://www.youtube.com/embed/ch_vD_090jk"
+
+    },
+
+    {
+        "titulo": "Slow Blues Backing Track in D",
+        "canal": "Quist",
+        "estilo/modo": "blues",
+        "tonalidade": "D",
+        "link": "https://www.youtube.com/watch?v=WjYsj3hEFI8",
+        "embed_src":"https://www.youtube.com/embed/WjYsj3hEFI8"
+
+    },
+
+    {
+        "titulo": "Blues Backing Track in D - Swamp Blues Key of D (Briggs/Marangoni)",
+        "canal": "Blues Tracks",
+        "estilo/modo": "blues",
+        "tonalidade": "D",
+        "link": "https://www.youtube.com/watch?v=tAbgJMcGttA",
+        "embed_src":"https://www.youtube.com/embed/tAbgJMcGttA"
+
+    },
+
+    {
+        "titulo": "Blues Shuffle in G : Backing Track",
+        "canal": "Blues Tracks",
+        "estilo/modo": "blues",
+        "tonalidade": "G",
+        "link": "https://www.youtube.com/watch?v=o5xCVtkOPVc",
+        "embed_src":"https://www.youtube.com/embed/o5xCVtkOPVc"
+
+    },
+
+    {
+        "titulo": "Blues Shuffle in G : Backing Track",
+        "canal": "Blues Tracks",
+        "estilo/modo": "blues",
+        "tonalidade": "G",
+        "link": "https://www.youtube.com/watch?v=L9PeqG9C5os",
+        "embed_src":"https://www.youtube.com/embed/L9PeqG9C5os"
+
     }
 ]

@@ -1,14 +1,15 @@
 var request = require('request')
 var axios = require('axios')
 var cheerio = require('cheerio')
+var jquery = require('jquery')
 
-request('https://www.youtube.com/watch?v=0fJ29wqHQyU', function (err, res, body) {
+request('https://g1.globo.com/', function (err, res, body) {
 
 
 
     const $ = cheerio.load(body)
 
-    console.log($('h2').html())
+    console.log($('h2').text())
 
 
 })
