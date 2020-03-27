@@ -148,5 +148,69 @@
         "link": "https://www.youtube.com/watch?v=L9PeqG9C5os",
         "embed_src":"https://www.youtube.com/embed/L9PeqG9C5os"
 
-    }
+    },
+
+    {
+        "titulo": "Slow Blues Guitar Backing Track in G",
+        "canal": "BackingtrackTV",
+        "estilo/modo": "blues",
+        "tonalidade": "G",
+        "link": "https://www.youtube.com/watch?v=ojCojlLfkzI",
+        "embed_src":"https://www.youtube.com/embed/ojCojlLfkzI"
+
+    },
+
+    {
+        "titulo": "Cinematic Rock Ballad Guitar Backing Track Jam in D Minor",
+        "canal": "Elevated Jam Tracks",
+        "estilo/modo": "eolio",
+        "tonalidade": "Dm",
+        "link": "https://www.youtube.com/watch?v=RiXmU7kl_lI",
+        "embed_src":"https://www.youtube.com/embed/RiXmU7kl_lI"
+
+    },
+
+    {
+        "titulo": "Soulful Seductive Groove Guitar Backing Track Jam in E Minor",
+        "canal": "Elevated Jam Tracks",
+        "estilo/modo": "eolio",
+        "tonalidade": "Em",
+        "link": "https://www.youtube.com/watch?v=y2pIxXS8684",
+        "embed_src":"https://www.youtube.com/embed/y2pIxXS8684"
+
+    },
+
+    {
+        "titulo": "Soulful Blues Groove Guitar Backing Track Jam in F# Minor",
+        "canal": "Elevated Jam Tracks",
+        "estilo/modo": "blues",
+        "tonalidade": "F#m",
+        "link": "https://www.youtube.com/watch?v=Zs_FbNk1xdI",
+        "embed_src":"https://www.youtube.com/embed/Zs_FbNk1xdI"
+
+    },
+
+    {
+        "titulo": "Seductive Soulful Groove Guitar Backing Track Jam in C Minor",
+        "canal": "Elevated Jam Tracks",
+        "estilo/modo": "eolio",
+        "tonalidade": "F#m",
+        "link": "https://www.youtube.com/watch?v=beucoUDOFrU",
+        "embed_src":"https://www.youtube.com/embed/beucoUDOFrU"
+
+    },
+
+    {
+        "titulo": "Dorian Latin Groove Backing Track in Am | #SZBT 399",
+        "canal": "Sebastien Zunino",
+        "estilo/modo": "dorico",
+        "tonalidade": "Am",
+        "link": "https://www.youtube.com/watch?v=rQdEfvenheQ",
+        "embed_src":"https://www.youtube.com/embed/rQdEfvenheQ"
+
+    },
+
+
+
+
 ]
